@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist, Engineer.<br>Passionate about data, designing and implementing data pipelines for year.<br>
+Data Scientis/Engineer.<br>Passionate about data, designing and implementing ML data pipelines for +7 years.<br>
 
 
 # 💻 Tech Stack:
